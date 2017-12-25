@@ -9,6 +9,6 @@ import lombok.RequiredArgsConstructor;
 @RequiredArgsConstructor
 @Getter
 public class GameStatus {
-		private final String name;
-		private final int score;
+	private final String name;
+	private final int score;
 }
